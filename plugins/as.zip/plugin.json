@@ -1,0 +1,10 @@
+{
+	"id": "advanced-spigot-generator",
+	"minversion": 202100103117,
+	"info": {
+		"name": "Advanced Spigot Generator",
+		"version": "1.0.0",
+		"author": "Plantt",
+		"description": "The original Spigot generator doesn't have all the features, so added some more!"
+	}
+}
