@@ -1,0 +1,10 @@
+{
+  "id": "caelus-api",
+  "minversion": 20210112313,
+  "info": {
+    "name": "Caelus API",
+    "version": "1.0",
+    "description": "Caelus API",
+    "author": "Coring"
+  }
+}
